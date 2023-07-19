@@ -1,0 +1,49 @@
+---
+title: "Bước Đầu Học Phật"
+author: "HT. Thích Thanh Từ"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: serif
+        size: 4
+
+      search:
+            engine: fuse     
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Bước Đầu Học Phật - HT. Thích Thanh Từ"
+cover-image: "images/cover.jpg"
+---
+# Lời đầu sách {- #loi-dau-sach}
+
+Chúng tôi viết quyển sách này cho những người mới bắt đầu học Phật. Bước
+đầu tuy tầm thường song không kém phần quan trọng, nếu bước đầu đi sai, những
+bước sau khó mà đúng được. Người học Phật khi mới vào đạo không hiểu đúng tinh
+thần Phật giáo, về sau sẽ hỏng cả một đời tu. Người có trách nhiệm hướng dẫn không
+thể xem thường kẻ mới học, cần phải xây dựng có một căn bản vững chắc, đi đúng
+đường hướng của Phật dạy. Hiểu Phật giáo một cách đúng đắn, mới mong thành một
+Phật tử chân chánh.
+
+Vì muốn chỉ lẽ chánh tà để người mới vào đạo khỏi lầm lẫn, nên chúng tôi
+mạnh dạn chỉ thẳng những điều sai lầm hiện có trong Phật giáo. Làm như thế, không
+có nghĩa chúng tôi muốn vạch lưng chỉ thẹo cho kẻ khác thấy, mà cốt yếu muốn gầy
+dựng lại một nếp sống Phật giáo phù hợp với hiện tại và mai sau. Chúng ta sống trong
+thời khoa học, cần phải truyền bá Phật giáo thích ứng với chân lý gần với sự thật. Bản
+chất của Phật giáo đã là chân lý, là sự thật, chúng ta đừng làm méo mó khiến kẻ bàng
+quan hiểu lầm Phật giáo. Với nhiệt tình, chúng tôi một bề đả phá những mê tín đang ẩn
+náu trong Phật giáo, để cho bộ mặt Phật giáo trắng sạch hơn, không còn những thứ lọ
+nhơ làm lem luốc. Tinh thần tồi tà phụ chánh, chúng tôi chịu trách nhiệm những gì
+chúng tôi đã nói và hoàn toàn chịu trách nhiệm với những ai không hài lòng phiền
+trách chúng tôi.  
+  
+<div style="text-align: right">
+Kính ghi,  
+**Thích Thanh Từ**
+</div>
